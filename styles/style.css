@@ -1,0 +1,20 @@
+html {
+    fron-family: 'Open Sans', sans-serif;
+}
+h1 {
+    front-size:60px;
+    text-align: center;
+    color:yellow
+}
+
+p {
+    color: red;
+    width: 500px;
+    border:1px solid black;
+}
+
+li {
+    color:darkblue;
+    text-align: center;
+    front-size:14px;
+}
