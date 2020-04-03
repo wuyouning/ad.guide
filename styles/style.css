@@ -1,20 +1,24 @@
-html {
-    fron-family: 'Open Sans', sans-serif;
+.part {
+    background: #ffffff;
+    margin-top: 24px;
+    margin-bottom: 24px;
+    border-radius: 10px;
 }
-h1 {
-    front-size:60px;
-    text-align: center;
-    color:yellow
-}
-
-p {
-    color: red;
-    width: 500px;
-    border:1px solid black;
+.item{
+    padding: 22px 15px
 }
 
-li {
-    color:darkblue;
-    text-align: center;
-    front-size:14px;
+.part1{
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: white;
+    background-origin: padding-box;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    box-sizing: border-box;
+    color: black;
+    margin-top: 24px;
+    margin-bottom: 24px;
 }
